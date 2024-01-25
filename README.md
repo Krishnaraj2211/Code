@@ -13,3 +13,5 @@ Online Book Store Using Spring Boot With H2 and MySQL Database (Thymleaf)
  ## Project Information
 Online book store where users can browse, search, and purchase books. The system should include features like User Registration, Book Management, Book details, and Order Management. Users should also be able to Rate and Review Books. The system can utilize a database to store information user, book and order data.
 
+## Website Trailer
+Samplevideo.mp4 
